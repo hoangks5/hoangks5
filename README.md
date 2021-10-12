@@ -1,5 +1,4 @@
 - 👋 Họ và Tên: Nguyễn Đức Hoàng
-- 👀 Năm sinh: 22/04/1999
 - 🌱 SV năm 4 ngành: CNKT Cơ Điện Tử
 - 🏫 ĐH Sư Phạm Kỹ Thuật TP.HCM
 - 📫 Quê quán: Ninh Bình
