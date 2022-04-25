@@ -1,180 +1,220 @@
-<h2 align="center"> Hi 👋 , I'm Md. Fahim Bin Amin <br/></h2> 
-<h3 align="center">Also known as "FBA" to other people. <br> <br>
-  <a href="https://github.com/hoangks5" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangks5?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/hoangks5" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=hoangks5&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
-  </h3> 
-      
-               
-     
-<div align="center">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![](https://raw.githubusercontent.com/hoangks5/hoangks5/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hoangks5/hoangks5/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hoangks5/hoangks5/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hoangks5/hoangks5/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hoangks5/hoangks5/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
-
-<h2 align="center">
-Technologies and Languages </h2>
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=flat-square&logo=crunchyroll&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![dJango](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more! </h3>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-	
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
-	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
-
-</div>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-  
-
-
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
- 
-
-
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hoangks5/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangks5" alt="hoangks5" /></p>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<details>
-	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
-<div align="center">
-
-
-:star: [Codeforces](https://codeforces.com/profile/hoangks5) <br>
-:star: [Toph](https://toph.co/u/hoangks5) <br>
-:star: [HackerRank](https://www.hackerrank.com/hoangks5) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/hoangks5)  <br>
-:star: [CodingBat](https://codingbat.com/) <br>
-:star: [Leetcode](https://leetcode.com/FBA/) <br>
-:star: [SPOJ](https://www.spoj.com/users/hoangks5/) <br>
-:star: [LightOJ](http://lightoj.com/) <br>
-:star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
-:star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [UVa](http://onlinejudge.org/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/hoangks5) <br>
-<i>Many more are coming soon...</i> :clap: </div> </details>
-	
-	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-<div align="center">
-	
-
-![hoangks5's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoangks5&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Nguyễn Đức Hoàng</a> - aka hoangks5 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-
-<a href="https://github.com/hoangks5/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
+  <a href="https://www.youtube.com/channel/UCRuVZv3Z0uKZ4jl87BX3rYQ?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/channel/UCRuVZv3Z0uKZ4jl87BX3rYQ?sub_confirmation=1"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
+  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
+## 📖 About me
+
+* 💻 I'm a full stack web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+
+<p align="left">
+  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+</p>
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+
+## 🙋‍♂️ Connect with me:
+
+<p align="left">
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
+  <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
+
+<p align="left">
+  <a href="https://stackexchange.com/users/16082556/eyl327">
+    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+  </a>
+</p>
+
+## 📘 My top open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
-------
-Credit: [hoangks5](https://github.com/hoangks5)
-Last Edited on: 01/09/2021
+<p align="left">
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
+
+## 👨‍💻 Languages and Tools:
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="C++" title="C++" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+            <td><a href="#"><img alt="C#" title="C#" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
+            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
+                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+            </td>
+            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
+                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
+            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
+                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
+                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+## 📺 Latest YouTube Videos
+
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+
+## 📈 Github Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+<!--END_SECTION:activity-->
+
+</details>
+-----
+Credits: [DenverCoder1](https://github.com/DenverCoder1)
+
+Last Edited on: 15/01/2021
