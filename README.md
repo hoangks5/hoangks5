@@ -19,16 +19,16 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **FREELANCE DEVELOPMENT**  🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently a HCMUTE student at Machine Engineering
+- 🌱 I’m currently exploring Python with a big interest in Python applets and Data Minning and Machine Learning/Deep Learning. 
+- 🤔 My interest lies in API, Application.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [hoangnd.ute@gmail.com](mailto:hoangnd.ute@gmail.com).
 
