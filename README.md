@@ -1,15 +1,15 @@
 <h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+<a href="https://www.linkedin.com/in/hoangks5">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
+<a href="https://www.instagram.com/hoangnguyen2204/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
+<a href="https://www.facebook.com/hoangkss5">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/jas_script">
+<a href="https://twitter.com/hoangks5">
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
@@ -30,7 +30,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [hoangnd.ute@gmail.com](mailto:hoangnd.ute@gmail.com).
 
 
 
