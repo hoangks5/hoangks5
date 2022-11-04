@@ -1,3 +1,6 @@
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
 <h3 title="hehehe"> Hey 👋, I'm Nguyễn Đức Hoàng aka hoangks5!</h3>
 
 <a href="https://www.linkedin.com/in/hoangks5">
