@@ -44,7 +44,5 @@ A **FREELANCE DEVELOPMENT**  🚀.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hoangks5&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="hoangks5 GitHub Stats">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangks5&count_private=true&theme=radical" alt="Jas-Script" />
 
 
