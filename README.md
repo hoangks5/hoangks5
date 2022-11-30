@@ -1,4 +1,4 @@
-<h1 title="hehehe"> Hey 👋, Please follow me again !</h1>
+<h1 title="hehehe"> Hey 👋</h1>
 
 
 
